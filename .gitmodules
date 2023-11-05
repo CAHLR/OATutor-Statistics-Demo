@@ -2,5 +2,5 @@
 	path = src/content-sources/oatutor
 	url = https://github.com/CAHLR/OATutor-Content.git
 [submodule "src/content-sources/oa"]
-	path = src/content-sources/oa
+	path = src/content-sources/oatutor
 	url = https://github.com/CAHLR/OATutor-Content.git
