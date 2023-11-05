@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Statistics-Demo/static/css/main.aa8cc3cd.css",
-    "main.js": "/OATutor-Statistics-Demo/static/js/main.a01847e3.js",
+    "main.js": "/OATutor-Statistics-Demo/static/js/main.fc20dfc8.js",
     "static/media/Symbola.svg": "/OATutor-Statistics-Demo/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Statistics-Demo/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Statistics-Demo/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Statistics-Demo/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Statistics-Demo/index.html",
     "main.aa8cc3cd.css.map": "/OATutor-Statistics-Demo/static/css/main.aa8cc3cd.css.map",
-    "main.a01847e3.js.map": "/OATutor-Statistics-Demo/static/js/main.a01847e3.js.map"
+    "main.fc20dfc8.js.map": "/OATutor-Statistics-Demo/static/js/main.fc20dfc8.js.map"
   },
   "entrypoints": [
     "static/css/main.aa8cc3cd.css",
-    "static/js/main.a01847e3.js"
+    "static/js/main.fc20dfc8.js"
   ]
 }
